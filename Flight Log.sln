@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetData", "GetData\GetData.csproj", "{13656514-4206-40E8-AF10-C0E11C84F397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight Log", "Flight Log\Flight Log.csproj", "{B7C98C8E-91E1-4C79-8811-4C3D1A28FE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13656514-4206-40E8-AF10-C0E11C84F397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13656514-4206-40E8-AF10-C0E11C84F397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13656514-4206-40E8-AF10-C0E11C84F397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13656514-4206-40E8-AF10-C0E11C84F397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C98C8E-91E1-4C79-8811-4C3D1A28FE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C98C8E-91E1-4C79-8811-4C3D1A28FE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C98C8E-91E1-4C79-8811-4C3D1A28FE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C98C8E-91E1-4C79-8811-4C3D1A28FE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EAED1E6-8347-4455-AAB6-B2EECCB6A28C}
+	EndGlobalSection
+EndGlobal
